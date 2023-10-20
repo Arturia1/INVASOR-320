@@ -18,7 +18,7 @@ O jogo terá uma fase única. Inimigue os animigos quem vem em sua direção e e
 Fase única onde os UFOs irão avançando nas mais diversas ordens. Quanto mais inimigos abatidos, os próximos serão mais fortes e precisará de mais tempo para abatê-los.
 
 # Requisitos
-Épicos/Funcionalidades
+Funcionalidades
 Menu Inicial Iniciar o jogo; Placar geral; Créditos;
 Pontuação As 5 maiores pontuações serão as registradas
 Créditos Artes e músicas;
@@ -26,10 +26,11 @@ Fases Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; M
 
 # Personas
 Tripulantes da nave controlada pelo jogador <br/>
-Mirie - Baixinha e mandona, é a capitã da nave e responsável pela navegação. Ajuda a conter o temperamento curto de Troublestorm e é compreensível com Chu2, uma pilota novata.;
-Troublestorm- Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.;
-Chu2- A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. ;
-
-Inimigos:;
+<br/>
+Mirie - Baixinha e mandona, é a capitã da nave e responsável pela navegação. Ajuda a conter o temperamento curto de Troublestorm e é compreensível com Chu2, uma pilota novata.<br/>
+Troublestorm- Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.<br/>
+Chu2- A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. <br/>
+<br/>
+Inimigos:<br/>
 UFOs - inimigos que apareceram pelo mapa que devem ser destruídos.;
 
