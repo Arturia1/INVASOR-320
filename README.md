@@ -30,6 +30,6 @@ Funcionalidades<br/>
   * Troublestorm - Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.<br/>
   * Chu2 - A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. <br/>
   <br/>
-Inimigos:<br/>
+Inimigos <br/>
   * UFOs - inimigos que apareceram pelo mapa que devem ser destruídos.;
 
