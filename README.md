@@ -1,5 +1,5 @@
 # INVASOR-320
-Link do jogo:
+<blink>Link do jogo:</blink>
 
 # Motivação
 A motivação deste projeto é desenvolver um jogo para disciplina de estágio 1, visando aprender a usar ferramentas de controle de versão e saber como é o dia-a-dia em um projeto.
