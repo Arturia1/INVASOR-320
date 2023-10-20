@@ -18,11 +18,11 @@ O jogo terá uma fase única. Inimigue os animigos quem vem em sua direção e e
 Fase única onde os UFOs irão avançando nas mais diversas ordens. Quanto mais inimigos abatidos, os próximos serão mais fortes e precisará de mais tempo para abatê-los.
 
 # Requisitos
-Funcionalidades
- * Menu Inicial Iniciar o jogo; Placar geral; Créditos;
- * Pontuação As 5 maiores pontuações serão as registradas
- * Créditos Artes e músicas;
- * Fases Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; Músicas;
+Funcionalidades<br/>
+*Menu Inicial Iniciar o jogo; Placar geral; Créditos;<br/>
+*Pontuação As 5 maiores pontuações serão as registradas<br/>
+*Créditos Artes e músicas;<br/>
+*Fases Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; Músicas;<br/>
 
 # Personas
   Tripulantes da nave controlada pelo jogador <br/>
