@@ -12,7 +12,7 @@ Um horda hostil se aproxima da colônia humana situada na constelação de árie
 Aprender como funciona o desenvolvimento de um projeto na prática
 
 # Fases
-O jogo terá no total de 3 fases. Cada fase vai apresentar inimigos relacionados ao cenário. No final de cada uma, quando o jogador tiver alcançado determinada quantidade de inimigos derrtotados, irá aparecer o mago de determinado cenário, que é o objetivo final da fase. Quando o combate terminar, Fausto será jogado para a próxima fase.
+O jogo terá uma fase única. Inimigue os animigos quem vem em sua direção e enfrente o boss final.
 
 # Fases	Descrição
 Fase única onde os UFOs irão avançando nas mais diversas ordens. Quanto mais inimigos abatidos, os próximos serão mais fortes e precisará de mais tempo para abatê-los.
