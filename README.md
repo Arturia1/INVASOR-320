@@ -19,10 +19,10 @@ Fase única onde os UFOs irão avançando nas mais diversas ordens. Quanto mais 
 
 # Requisitos
 Funcionalidades<br/>
-*Menu Inicial Iniciar o jogo; Placar geral; Créditos;<br/>
-*Pontuação As 5 maiores pontuações serão as registradas<br/>
-*Créditos Artes e músicas;<br/>
-*Fases Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; Músicas;<br/>
+* Menu - Inicial Iniciar o jogo; Placar geral; Créditos;<br/>
+* Pontuação - As 5 maiores pontuações serão as registradas<br/>
+* Créditos - Artes e músicas;<br/>
+* Fases - Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; Músicas;<br/>
 
 # Personas
   Tripulantes da nave controlada pelo jogador <br/>
