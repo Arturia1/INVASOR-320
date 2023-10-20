@@ -31,8 +31,11 @@ Funcionalidades<br/>
   * Chu2 - A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. <br/>
   <br/>
   Inimigos <br/>
-  * UFOs - inimigos que apareceram pelo mapa que devem ser destruídos.
-# Telas
+  * UFOs - inimigos que apareceram pelo mapa que devem ser destruídos. <br/>
+
+# Telas <br/>
+![Texto Alternativo]([caminho/para/a/imagem.jpg](https://github.com/Arturia1/INVASOR-320/blob/main/TELAS%20INVASOR%20320.png)https://github.com/Arturia1/INVASOR-320/blob/main/TELAS%20INVASOR%20320.png)
+
 
 
 
