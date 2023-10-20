@@ -25,11 +25,11 @@ Créditos Artes e músicas;
 Fases Cenário de cada fase; itens; Objetos do cenário; Elementos de comando; Músicas;
 
 # Personas
-Tripulantes da nave controlada pelo jogador:
-Mirie - Baixinha e mandona, é a capitã da nave e responsável pela navegação. Ajuda a conter o temperamento curto de Troublestorm e é compreensível com Chu2, uma pilota novata.
-Troublestorm- Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.
-Chu2- A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. 
+Tripulantes da nave controlada pelo jogador;
+Mirie - Baixinha e mandona, é a capitã da nave e responsável pela navegação. Ajuda a conter o temperamento curto de Troublestorm e é compreensível com Chu2, uma pilota novata.;
+Troublestorm- Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.;
+Chu2- A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. ;
 
-# Inimigos:
-UFOs - inimigos que apareceram pelo mapa que devem ser destruídos.
+Inimigos:;
+UFOs - inimigos que apareceram pelo mapa que devem ser destruídos.;
 
