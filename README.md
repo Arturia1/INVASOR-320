@@ -26,7 +26,6 @@ Funcionalidades<br/>
 
 # Personas
   Tripulantes da nave controlada pelo jogador <br/>
-  <br/>
   * Mirie - Baixinha e mandona, é a capitã da nave e responsável pela navegação. Ajuda a conter o temperamento curto de Troublestorm e é compreensível com Chu2, uma pilota novata.<br/>
   * Troublestorm - Especialista em armas, é dono de um pavio curto além de ter uma vasta experiência de combate. Se irrita com a ingenuidade de Chu2.<br/>
   * Chu2 - A mais nova da tripulação, uma novata exercendo como especialista de recursos, além uma faz tudo nas horas vagas. Vive brigando com Troublestorm e tem uma grande admiração pela capitão Mirie. <br/>
